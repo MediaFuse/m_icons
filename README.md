@@ -1,4 +1,4 @@
-# m icons
+# m_icons
 ## Open square style
 
 Vector icons in SVG format.
