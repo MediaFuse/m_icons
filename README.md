@@ -1,7 +1,11 @@
 # m_icons
+## Square open
+
 
 Copyright &copy; 2022 Jerry McCreary
 
 Vector icons in SVG format.
 
-Released under MIT license.
+
+All logos copyright by their respective owners.
+
