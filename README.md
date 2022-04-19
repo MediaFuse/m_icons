@@ -1,5 +1,5 @@
 # m icons
-## Square open style
+## Open square style
 
 Vector icons in SVG format.
 
