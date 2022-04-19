@@ -3,8 +3,7 @@
 
 Vector icons in SVG format.
 
-_Yes, there already is a plethora of vector icons available. 
-But sometimes it's easier to create what you need._
+_Sometimes it's easier to create what you need._
 
 ----
 
